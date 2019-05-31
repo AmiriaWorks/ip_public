@@ -1,5 +1,3 @@
-figlet -f small ip public
-
 # ip public
 
 import urllib

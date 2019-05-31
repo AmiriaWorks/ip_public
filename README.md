@@ -1,5 +1,7 @@
 # ip_public
 
+get ip public
+
 # install
 
 $ pkg install git
